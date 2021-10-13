@@ -3,7 +3,7 @@ package string;
 /**
  * @author Albina Gimaletdinova on 11/10/2021
  */
-class Solution {
+public class Solution {
 
     public int longestCommonSubsequence(String text1, String text2) {
         if (text2.length() < text1.length()) {
