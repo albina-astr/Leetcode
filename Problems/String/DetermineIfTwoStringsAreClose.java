@@ -39,3 +39,5 @@ public class Solution {
         return true;
     }
 }
+
+package string;
