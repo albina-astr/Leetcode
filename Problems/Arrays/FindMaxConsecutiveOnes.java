@@ -1,4 +1,4 @@
-package number;
+package arrays;
 
 /**
  * @author Albina Gimaletdinova on 05/11/2021
